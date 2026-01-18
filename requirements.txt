@@ -1,0 +1,18 @@
+# Africa AI Intelligence Platform Dependencies
+# Install with: pip install -r requirements.txt
+
+# Core dependencies
+requests
+beautifulsoup4
+pandas
+python-dotenv
+
+# Excel export support
+openpyxl
+
+# HTML parsing
+lxml
+
+# Optional: Jupyter notebook support (if running in Jupyter)
+jupyter
+ipykernel
